@@ -33,7 +33,7 @@ The majority of my HTML/CSS knowledge comes from creating newsletters (what a br
 
 **Thoughts** I haven't added any JS yet. I figured I would try the Wes Bos JavaScript30 challenge and then revisit. But the landing page looks good on desktop and mobile.
 
-**Link(s) to work**: [Intro components with sign-up form] (https://github.com/elshaw82/Intro-component-with-sign-up-form)
+**Link(s) to work**: [Intro components with sign-up form](https://github.com/elshaw82/Intro-component-with-sign-up-form)
 
 ### Day 5: April 29, 2020
 
