@@ -43,3 +43,13 @@ The majority of my HTML/CSS knowledge comes from creating newsletters (what a br
 
 **Link(s) to work**: [JavaScript Drum Kit](https://github.com/elshaw82/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
 
+### Day 6: April 30, 2020
+
+**Today's Progress**: Today's project was a JavaScript clock. Again, I coded along and then added my own CSS. I could feel myself getting carried away and wanting to transform the background into a 70's wall, complete with 3 flying ornamental ducks, jazzy wallpaper and a crazy clockface. But alas, I held back and kept it relatively clean and simple! The tutorials are definitely starting to make an impact. I'm anticipating the next lines of code and (mostly) getting it right!
+
+I also discovered the debugging term 'Rubber Ducking' which is a fun bit of trivia I will definitely be putting into practice in the near future.
+
+**Thoughts** I find when I'm really in this zone of learning and enjoying creating, I have to fight the urge to start multiple new projects. It mostly happens when I see amazing work by other developers. For example I saw on Twitter today someone had created a Mac using CSS...immediately wanted to create my own. FOCUS!! My main goal for this challenge is to learn JavaScript. Plenty of time for CSS later.
+
+**Link(s) to work**: [JavaScript Clock](https://github.com/elshaw82/JavaScript30/tree/master/02%20-%20JS%20and%20CSS%20Clock)
+
