@@ -49,7 +49,7 @@ The majority of my HTML/CSS knowledge comes from creating newsletters (what a br
 
 I also discovered the debugging term 'Rubber Ducking' which is a fun bit of trivia I will definitely be putting into practice in the near future.
 
-**Thoughts** I find when I'm really in this zone of learning and enjoying creating, I have to fight the urge to start multiple new projects. It mostly happens when I see amazing work by other developers. For example I saw on Twitter today someone had created a Mac keyboard using CSS...immediately wanted to create my own. FOCUS!! My main goal for this challenge is to learn JavaScript. Plenty of time for CSS later.
+**Thoughts** I find when I'm really in this zone of learning and enjoying creating, I have to fight the urge to start multiple new projects. It mostly happens when I see amazing work by other developers. For example I saw on Twitter today someone had created a Macbook keyboard using CSS...immediately wanted to create my own. FOCUS!! My main goal for this challenge is to learn JavaScript. Plenty of time for CSS later.
 
 **Link(s) to work**: [JavaScript Clock](https://github.com/elshaw82/JavaScript30/tree/master/02%20-%20JS%20and%20CSS%20Clock)
 
