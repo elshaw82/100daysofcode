@@ -2,7 +2,7 @@
 Documenting my 100 days of code
 
 
-### Day 1: April 26, 2020 
+### Day 1: April 25, 2020 
 
 **Today's Progress**: One of my favourite front-end resources is Frontend Mentor. They have a brilliant selection of designs to work from and today I started with Base Apparel. It really give me a chance to brush up on my Flexbox knowledge and put it into practice. 
 
