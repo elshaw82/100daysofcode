@@ -53,3 +53,10 @@ I also discovered the debugging term 'Rubber Ducking' which is a fun bit of triv
 
 **Link(s) to work**: [JavaScript Clock](https://github.com/elshaw82/JavaScript30/tree/master/02%20-%20JS%20and%20CSS%20Clock)
 
+### Day 7: May 01, 2020
+
+**Today's Progress**: Today's tutorial looked at using JS to target CSS variables and change the filter, spacing and background-colour of an image. It was really interesting but I think I'm having a bit of an 'off day'. Watched the tutorial twice (coded along the second time) and then did a few lessons in Codecademy.
+
+**Thoughts**: I need to bookmark a good JS reference site for getting familiar with all the different terminology. I was off my game a bit today but I know it will pass. Tomorrow is a new day!
+
+**Link(s) to work**: [CSS Variables](https://github.com/elshaw82/JavaScript30/tree/master/03%20-%20CSS%20Variables)
