@@ -75,4 +75,7 @@ I also discovered the debugging term 'Rubber Ducking' which is a fun bit of triv
 
 **Thoughts**:  As I'm learning I'm trying to apply it to previous projects and how the designs could benefit from this new knowledge. I also might go back and redesign my JS Drum Kit. Maybe base it on something real to see how close I can get it. I know my journey is going to be mostly learning JavaScript but I can have a little CSS, as a treat?
 
+Edit: I updated the drum kit to make it look more like an electronic drumkit. 
+
 **Link(s) to work**: [Flex Panel Gallery](https://github.com/elshaw82/JavaScript30/tree/master/05%20-%20Flex%20Panel%20Gallery)
+[JS Drum Kit Updated](https://github.com/elshaw82/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)[Drum Kit CodePen](https://codepen.io/elshaw82/full/LYpOjjP) ![Drum Kit](https://github.com/elshaw82/JavaScript30/blob/master/01%20-%20JavaScript%20Drum%20Kit/screengrab-update.jpg)
