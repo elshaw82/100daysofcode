@@ -78,4 +78,4 @@ I also discovered the debugging term 'Rubber Ducking' which is a fun bit of triv
 Edit: I updated the drum kit to make it look more like an electronic drumkit. 
 
 **Link(s) to work**: [Flex Panel Gallery](https://github.com/elshaw82/JavaScript30/tree/master/05%20-%20Flex%20Panel%20Gallery), 
-[JS Drum Kit Updated](https://github.com/elshaw82/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)[Drum Kit CodePen](https://codepen.io/elshaw82/full/LYpOjjP),  ![Drum Kit](https://github.com/elshaw82/JavaScript30/blob/master/01%20-%20JavaScript%20Drum%20Kit/screengrab-update.jpg)
+[JS Drum Kit Updated],(https://github.com/elshaw82/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)[Drum Kit CodePen](https://codepen.io/elshaw82/full/LYpOjjP),  ![Drum Kit](https://github.com/elshaw82/JavaScript30/blob/master/01%20-%20JavaScript%20Drum%20Kit/screengrab-update.jpg)
