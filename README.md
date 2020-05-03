@@ -60,3 +60,19 @@ I also discovered the debugging term 'Rubber Ducking' which is a fun bit of triv
 **Thoughts**: I need to bookmark a good JS reference site for getting familiar with all the different terminology. I was off my game a bit today but I know it will pass. Tomorrow is a new day!
 
 **Link(s) to work**: [CSS Variables](https://github.com/elshaw82/JavaScript30/tree/master/03%20-%20CSS%20Variables)
+
+### Day 8: May 02, 2020
+
+**Today's Progress**: Today was Array Cardio day! Quite a number of exercises to get to grips with. Afterwards I started the Wes Bos Javascript for Beginners course. I find if I'm doing an hour or so of lessons and then putting it into practise it sinks in a lot faster. I know this method isn't for everyone (going from beginner level lessons to then looking at more advanced exercises) but it helps me join the dots and understand the potential of what I'm learning. 
+
+**Thoughts**: If I'm honest, I thought that learning JavaScript would be really dull, but the more I use it the more I love it. Again, trying not to get ahead of myself and start building multiple projects. Living vicariously through what other people are creating during the 100DaysOfCode challenge and thinking about what I would like to build once I'm more confident with the language. 
+
+**Link(s) to work**: [Array Cardio](https://github.com/elshaw82/JavaScript30/blob/master/04%20-%20Array%20Cardio%20Day%201/index.html)
+
+### Day 9: May 03, 2020
+
+**Today's Progress**: In today's lesson we created a Flex panel gallery. This particular project used hardly any JS, all the animation/transformation came from CSS. 
+
+**Thoughts**:  As I'm learning I'm trying to apply it to previous projects and how the designs could benefit from this new knowledge. I also might go back and redesign my JS Drum Kit. Maybe base it on something real to see how close I can get it. I know my journey is going to be mostly learning JavaScript but I can have a little CSS, as a treat?
+
+**Link(s) to work**: [Flex Panel Gallery](https://github.com/elshaw82/JavaScript30/tree/master/05%20-%20Flex%20Panel%20Gallery)
