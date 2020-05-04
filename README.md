@@ -79,3 +79,13 @@ Edit: I updated the drum kit to make it look more like an electronic drumkit.
 
 **Link(s) to work**: [Flex Panel Gallery](https://github.com/elshaw82/JavaScript30/tree/master/05%20-%20Flex%20Panel%20Gallery), 
 [JS Drum Kit Updated](https://github.com/elshaw82/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit), [Drum Kit CodePen](https://codepen.io/elshaw82/full/LYpOjjP),  ![Drum Kit](https://github.com/elshaw82/JavaScript30/blob/master/01%20-%20JavaScript%20Drum%20Kit/screengrab-update.jpg)
+
+### Day 10: May 04, 2020
+
+**Today's Progress**: I mostly did a few a function exercises today and then messed around in Visual Studio to test what I had learned. Today's JavaScript30 exercise was a Type Ahead function in a search bar to locate different cities and states. 
+
+**Thoughts**:  Driling into the absolute basics is really helping. I know my confidence will grow once I truly understand the fundamentals of this language. I've yet to have my Eureka! moment where it all totally makes sense, but I'm definitely seeing an improvement each day. 
+
+**Link(s) to work**: [Type Ahead Search](https://github.com/elshaw82/JavaScript30/tree/master/06%20-%20Type%20Ahead)
+
+
