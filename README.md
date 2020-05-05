@@ -88,4 +88,10 @@ Edit: I updated the drum kit to make it look more like an electronic drumkit.
 
 **Link(s) to work**: [Type Ahead Search](https://github.com/elshaw82/JavaScript30/tree/master/06%20-%20Type%20Ahead)
 
+### Day 11: May 05, 2020
 
+**Today's Progress**: Yet more function practice today! Learning all the different types and when to use them. I understand how they work, it's trying to remember everything that goes along with each type. I think when I get The Dom - HTML/CSS elements I'll be able to practice in a way that helps better my understanding. 
+
+**Thoughts**:   Treated myself to some CSS styling. I know! But my head was fried after an hour or so of function chat. 
+
+**Link(s) to work**: [Responsive Sign Up Form](https://github.com/elshaw82/single-price-grid-component-master)
