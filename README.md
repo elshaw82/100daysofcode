@@ -95,3 +95,11 @@ Edit: I updated the drum kit to make it look more like an electronic drumkit.
 **Thoughts**:   Treated myself to some CSS styling. I know! But my head was fried after an hour or so of function chat. Paused my JavaScript30 work to get my head around all the function work.
 
 **Link(s) to work**: [Responsive Sign Up Form](https://github.com/elshaw82/single-price-grid-component-master)
+
+### Day 12: May 06, 2020
+
+**Today's Progress**: Today I looked at debugging tools, scope, hoisting and closures. It's a lot to take in but I'm hoping when I start the DOM module next it will all start falling into place. 
+
+**Thoughts**:  Feeling positive about what I'm learning and excited about how much it will open up what I'm able to create in the future. 
+
+**Link(s) to work**: No work to link to today - just a full on study day!
