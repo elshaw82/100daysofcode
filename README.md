@@ -103,3 +103,11 @@ Edit: I updated the drum kit to make it look more like an electronic drumkit.
 **Thoughts**:  Feeling positive about what I'm learning and excited about how much it will open up what I'm able to create in the future. 
 
 **Link(s) to work**: No work to link to today - just a full on study day!
+
+### Day 13: May 07, 2020
+
+**Today's Progress**: Started the DOM module today. Looked at selecting elements, element properties and methods, working with classes, built in and custom data attributes and finally creating HTML with JavaScript. It's pretty full on!
+
+**Thoughts**: Looking forward to more practical exercises where we are working towards building something. I've been looking at past JavaScript I've worked with/coded along with and it's all making much more sense to me. I'm moving in the right direction!
+
+**Link(s) to work**: No work to link to today - mostly practicing and coding along!
