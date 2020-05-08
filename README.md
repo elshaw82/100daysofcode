@@ -108,6 +108,16 @@ Edit: I updated the drum kit to make it look more like an electronic drumkit.
 
 **Today's Progress**: Started the DOM module today. Looked at selecting elements, element properties and methods, working with classes, built in and custom data attributes and finally creating HTML with JavaScript. It's pretty full on!
 
+Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
+
 **Thoughts**: Looking forward to more practical exercises where we are working towards building something. I've been looking at past JavaScript I've worked with/coded along with and it's all making much more sense to me. I'm moving in the right direction!
 
 **Link(s) to work**: No work to link to today - mostly practicing and coding along!
+
+### Day 14: May 08, 2020
+
+**Today's Progress**: Looked at creating HTML from strings, XSS, traversing and removing nodes then some DOM cardio! Enjoyed trying out what I've learned so far. Did some work on the Dribbble Spotify page. 
+
+**Thoughts**: It's a lot to take in but I'm enjoying the DOM module and getting some real world scenario practice in. 
+
+**Link(s) to work**: [Dribbble Spotify landing page](https://github.com/elshaw82/dribbble) 
