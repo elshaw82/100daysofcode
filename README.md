@@ -121,3 +121,12 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 **Thoughts**: It's a lot to take in but I'm enjoying the DOM module and getting some real world scenario practice in. 
 
 **Link(s) to work**: [Dribbble Spotify landing page](https://github.com/elshaw82/dribbble) 
+
+
+### Day 15: May 09, 2020
+
+**Today's Progress**: Today I looked at events and event listeners. This concept made total sense right away as I've used Tag Manager a lot in the past for work. 
+
+**Thoughts**:  Intimidated slightly by the various ways of creating functions/events but it's just a matter of practice! There are some practical challanges coming up soon, which I'm excited to get stuck into!
+
+**Link(s) to work**: No work, just lessons today. 
