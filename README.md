@@ -130,3 +130,11 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 **Thoughts**:  Intimidated slightly by the various ways of creating functions/events but it's just a matter of practice! There are some practical challanges coming up soon, which I'm excited to get stuck into!
 
 **Link(s) to work**: No work, just lessons today. 
+
+### Day 16: May 10, 2020
+
+**Today's Progress**: Had a break from JavaScript today and instead put together some plans for a portfolio website. I'm nearly happy with it! Need to work on a mobile navigation menu and adding in the content.
+
+**Thoughts**: It was nice to put some more CSS grid into practice. Back to JavaScript tomorrow!
+
+**Link(s) to work**: [Portfolio Website in progress] (https://github.com/elshaw82/Elaine-Shaw)
