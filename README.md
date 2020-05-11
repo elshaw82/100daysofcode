@@ -131,6 +131,7 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 
 **Link(s) to work**: No work, just lessons today. 
 
+
 ### Day 16: May 10, 2020
 
 **Today's Progress**: Had a break from JavaScript today and instead put together some plans for a portfolio website. I'm nearly happy with it! Need to work on a mobile navigation menu and adding in the content.
@@ -138,3 +139,12 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 **Thoughts**: It was nice to put some more CSS grid into practice. Back to JavaScript tomorrow!
 
 **Link(s) to work**: [Portfolio Website in progress] (https://github.com/elshaw82/Elaine-Shaw)
+
+
+### Day 17: May 11, 2020
+
+**Today's Progress**: Today I started a module of practical exercises. First up, a JavaScript etch-a-sketch! This was fun and it covered a few aspects that we haven't touched upon yet. 
+
+**Thoughts**: Feeling more and more positive about my progress and what I'll be able to create at the end of this!
+
+**Link(s) to work**: [JS Etch-a-sketch] (https://github.com/elshaw82/beginner-javascript/tree/master/exercises/33%20-%20Etch-a-Sketch)
