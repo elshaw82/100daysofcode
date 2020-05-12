@@ -138,7 +138,7 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 
 **Thoughts**: It was nice to put some more CSS grid into practice. Back to JavaScript tomorrow!
 
-**Link(s) to work**: [Portfolio Website in progress] (https://github.com/elshaw82/Elaine-Shaw)
+**Link(s) to work**: [Portfolio Website in progress](https://github.com/elshaw82/Elaine-Shaw)
 
 
 ### Day 17: May 11, 2020
@@ -147,7 +147,7 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 
 **Thoughts**: Feeling more and more positive about my progress and what I'll be able to create at the end of this!
 
-**Link(s) to work**: [JS Etch-a-sketch] (https://github.com/elshaw82/beginner-javascript/tree/master/exercises/33%20-%20Etch-a-Sketch)
+**Link(s) to work**: [JS Etch-a-sketch](https://github.com/elshaw82/beginner-javascript/tree/master/exercises/33%20-%20Etch-a-Sketch)
 
 
 ### Day 18: May 12, 2020
@@ -156,4 +156,4 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 
 **Thoughts**: This was an interesting challenge. I understand the limitations of these designs with regards to accessability but this was more of an exercise in box-shadows!
 
-**Link(s) to work**: [Neumorphism/Soft UI interface creation] (https://github.com/elshaw82/Neumorphism) [CodePen ] (https://codepen.io/elshaw82/full/YzyjPJL)
+**Link(s) to work**: [Neumorphism/Soft UI interface creation](https://github.com/elshaw82/Neumorphism) [CodePen ](https://codepen.io/elshaw82/full/YzyjPJL)
