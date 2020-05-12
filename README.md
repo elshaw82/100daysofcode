@@ -148,3 +148,12 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 **Thoughts**: Feeling more and more positive about my progress and what I'll be able to create at the end of this!
 
 **Link(s) to work**: [JS Etch-a-sketch] (https://github.com/elshaw82/beginner-javascript/tree/master/exercises/33%20-%20Etch-a-Sketch)
+
+
+### Day 18: May 12, 2020
+
+**Today's Progress**: Read about Neumorphism and decided to and recreate a design I saw here (https://uxplanet.org/neumorphism-in-user-interface-tutorial-c353698ac5c0). I didn't follow the tutorial, but I ended up going back and using the box shadows as my colours weren't quite right. 
+
+**Thoughts**: This was an interesting challenge. I understand the limitations of these designs with regards to accessability but this was more of an exercise in box-shadows!
+
+**Link(s) to work**: [Neumorphism/Soft UI interface creation] (https://github.com/elshaw82/Neumorphism) [CodePen ] (https://codepen.io/elshaw82/full/YzyjPJL)
