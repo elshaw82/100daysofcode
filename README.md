@@ -157,3 +157,12 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 **Thoughts**: This was an interesting challenge. I understand the limitations of these designs with regards to accessability but this was more of an exercise in box-shadows!
 
 **Link(s) to work**: [Neumorphism/Soft UI interface creation](https://github.com/elshaw82/Neumorphism) [CodePen ](https://codepen.io/elshaw82/full/YzyjPJL)
+
+
+### Day 19: May 13, 2020
+
+**Today's Progress**: Today I did a couple of JavaScript quizes and half a lesson of combining CSS animation and JavaScript to open up an modal window when a button is clicked. I also went back to yesterday's interface work and added some media queries. 
+
+**Thoughts**: Having an off day today! Back to it tomorrow. I'm happy I managed to a do a little bit of coding at least!
+
+**Link(s) to work**: Studying, some practice exercises and quizzes today.
