@@ -166,3 +166,21 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 **Thoughts**: Having an off day today! Back to it tomorrow. I'm happy I managed to a do a little bit of coding at least!
 
 **Link(s) to work**: Studying, some practice exercises and quizzes today.
+
+
+### Day 20: May 14, 2020
+
+**Today's Progress**: Worked through another exercise today - click outside modal. I was following along but got a bit lost! So I decided to go back to some work from the other day and add some missing media queries, followed by some JavaScript quizzes. 
+
+**Thoughts**: I knew it wouldn't help to sit and get frustrated with the project, better to look at it with fresh eyes tomorrow!
+
+**Link(s) to work**: CSS, some practice exercises and quizzes today.
+
+
+### Day 21: May 15, 2020
+
+**Today's Progress**: I went back to yesterday's exercise and fixed the issue within 2 minutes! (I hadn't defined a variable.) Sometimes it's good to come back to work with fresh eyes!
+
+**Thoughts**: It feels good to overcome an obstacle (even a really obvious one!)
+
+**Link(s) to work**: Completed the exercise. 
