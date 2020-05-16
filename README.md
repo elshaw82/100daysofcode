@@ -184,3 +184,12 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 **Thoughts**: It feels good to overcome an obstacle (even a really obvious one!)
 
 **Link(s) to work**: Completed the exercise. 
+
+
+### Day 22: May 16, 2020
+
+**Today's Progress**: Worked on a tab exercise today using JavaScript, then did some practice on my own. Made a start on a Frontend Mentor landing page and also did a fun Flexbox quiz!
+
+**Thoughts**: Struggled a bit to focus today, but tomorrow will be better!
+
+**Link(s) to work**:
