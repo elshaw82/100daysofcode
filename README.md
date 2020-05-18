@@ -193,3 +193,21 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 **Thoughts**: Struggled a bit to focus today, but tomorrow will be better!
 
 **Link(s) to work**:
+
+
+### Day 23: May 17, 2020
+
+**Today's Progress**: Worked through some grid quizzes and revisted past JS modules.
+
+**Thoughts**: 
+
+**Link(s) to work**:
+
+
+### Day 24: May 18, 2020
+
+**Today's Progress**: Back to JavaScript today! Looked at BEDMAS, Flow control - if statements, function returns, truthy, falsy. 
+
+**Thoughts**: Felt a bit frustrated today! But I worked through the code and sorted out where I was going wrong (it was a missing parentheses) I'll probably go over today's lesson again tomorrow to make it stick!
+
+**Link(s) to work**: 
