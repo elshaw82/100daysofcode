@@ -215,7 +215,7 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 
 ### Day 25: May 19, 2020
 
-**Today's Progress**: Went over Flow control - if statements, function returns, truthy, falsy again. Felt myself losing focus, so I created another soft UI interface.
+**Today's Progress**: Went over Flow control - if statements, function returns, truthy, falsy again. Felt myself losing focus, so I created another soft UI design.
 
 **Thoughts**: Really pleased with the interface I created. I was hoping to do a JavaScript calculator in this style, but it was way more complicated than I expected. Another time!
 
