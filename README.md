@@ -211,3 +211,13 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 **Thoughts**: Felt a bit frustrated today! But I worked through the code and sorted out where I was going wrong (it was a missing parentheses) I'll probably go over today's lesson again tomorrow to make it stick!
 
 **Link(s) to work**: 
+
+
+### Day 25: May 19, 2020
+
+**Today's Progress**: Went over Flow control - if statements, function returns, truthy, falsy again. Felt myself losing focus, so I created another soft UI interface.
+
+**Thoughts**: Really pleased with the interface I created. I was hoping to do a JavaScript calculator in this style, but it was way more complicated than I expected. Another time!
+
+**Link(s) to work**: [Soft UI interface creation](https://github.com/elshaw82/Neumorphism/tree/master/Smart%20Home) [CodePen ](https://codepen.io/elshaw82/full/gOaZPxM)
+
