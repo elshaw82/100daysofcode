@@ -221,3 +221,11 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 
 **Link(s) to work**: [Soft UI interface creation](https://github.com/elshaw82/Neumorphism/tree/master/Smart%20Home) [CodePen ](https://codepen.io/elshaw82/full/gOaZPxM)
 
+
+### Day 26: May 20, 2020
+
+**Today's Progress**: Made a start on a FreeCodeCamp Tetris code-along exercise. Pretty fast-paced but I'm enjoying the challenge! Definitely feels like good progress. 
+
+**Thoughts**: 
+
+**Link(s) to work**:
