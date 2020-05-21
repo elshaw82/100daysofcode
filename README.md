@@ -229,3 +229,12 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 **Thoughts**: 
 
 **Link(s) to work**:
+
+
+### Day 27: May 21, 2020
+
+**Today's Progress**: Full JavaScript day today! Currently learning about Coercion, Ternaries and Conditional Abuse. I finished my Tetris tutorial but it didn't really work - tried debugging to no avail. I then copied the code from the lesson and it was thowing the same error so who knows! Quite frustrating, but it was an interesting project (when it was working).
+
+**Thoughts**: I found the FCC Tetris tutorial quite tricky, even though it was labelled as beginner level. It's hard not to feel a bit disheartened when something is labelled as 'beginner/easy' and even with a decent bit of knowledge, you still struggle! Oh well. I managed to use a lot of what I was learning in my course in new ways, so that's something! Hopefully at the end of this I'll be able to revisit it and fix the problem. 
+
+**Link(s) to work**: [Tetris - not quite working](https://github.com/elshaw82/Tetris)
