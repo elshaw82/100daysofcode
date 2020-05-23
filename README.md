@@ -248,3 +248,12 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 
 **Link(s) to work**: [Empire Records](https://github.com/elshaw82/Empire-Records)
 
+
+### Day 29: May 23, 2020
+
+**Today's Progress**: Today I created a random quote generator in less than an hour - this was extremely rewarding as it was the first thing I ever tried to make using JS a couple of months ago and I just couldn't quite get it right. It's important to celebrate these little milestones as a reminder of just how far you have come!
+
+**Thoughts**: Looking at what mini projects I can start using JavaScript next!
+
+**Link(s) to work**: [Random Quote Generator](https://github.com/elshaw82/quote-generator) [CodePen](https://codepen.io/elshaw82/full/MWaxOrY)
+
