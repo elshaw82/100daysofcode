@@ -257,3 +257,12 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 
 **Link(s) to work**: [Random Quote Generator](https://github.com/elshaw82/quote-generator) [CodePen](https://codepen.io/elshaw82/full/MWaxOrY)
 
+
+### Day 30: May 24, 2020
+
+**Today's Progress**: Got to grips with keyframe animations today! I had no idea just how much you could do with them. A lot of fun and endless possibilities. I made a dripping icecream cone.
+
+**Thoughts**: The first time I looked into keyframes I was a bit overwhelmed, but having spent a few hours playing around I feel way more confident in what I can create now. Really exciting!
+
+**Link(s) to work**: [Random Quote Generator](https://github.com/elshaw82/quote-generator) [CodePen](https://codepen.io/elshaw82/full/MWaxOrY)
+
