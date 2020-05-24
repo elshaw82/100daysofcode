@@ -264,5 +264,5 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 
 **Thoughts**: The first time I looked into keyframes I was a bit overwhelmed, but having spent a few hours playing around I feel way more confident in what I can create now. Really exciting!
 
-**Link(s) to work**: [Random Quote Generator](https://github.com/elshaw82/quote-generator) [CodePen](https://codepen.io/elshaw82/full/MWaxOrY)
+**Link(s) to work**:  [CodePen](https://codepen.io/elshaw82/full/LYpvYPG)
 
