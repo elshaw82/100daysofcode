@@ -266,3 +266,12 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 
 **Link(s) to work**:  [CodePen](https://codepen.io/elshaw82/full/LYpvYPG)
 
+
+### Day 31: May 25, 2020
+
+**Today's Progress**: Fixed a few glitches in yesterday's animation and added a few more details. Planning to make a start on a JavaScript Rock, Paper, Scissors game today.
+
+**Thoughts**: Feeling positive about my progress and the possibilities each new skill unlocks!
+
+**Link(s) to work**:  [Ice-Cream Cone](https://github.com/elshaw82/Ice-Cream-Cone)
+
