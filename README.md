@@ -275,3 +275,11 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 
 **Link(s) to work**:  [Ice-Cream Cone](https://github.com/elshaw82/Ice-Cream-Cone)
 
+
+### Day 32: May 26, 2020
+
+**Today's Progress**: Worked through a tutorial for creating a JavaScript Rock, Paper, Scissors game! Really enjoyed this one and felt I had some real lightbulb moments with the process!
+
+**Thoughts**: Looking for another beginner level game to code!
+
+**Link(s) to work**:  [Rock, Paper, Scissors](https://elshaw82.github.io/rock-paper-scissors/)
