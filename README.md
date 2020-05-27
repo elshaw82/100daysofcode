@@ -283,3 +283,12 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 **Thoughts**: Looking for another beginner level game to code!
 
 **Link(s) to work**:  [Rock, Paper, Scissors](https://elshaw82.github.io/rock-paper-scissors/)
+
+
+### Day 33: May 27, 2020
+
+**Today's Progress**: I decided to give CSS Grid my full attention today and create a website for a fictional coffee company. CSS Flex and Grid really baffled me at the beginning of my 100 Days of Code journey - When do you use one over the other? What's the difference, but it's super clear in my mind now! 
+
+**Thoughts**: I'd quite like to create some more complex grid layouts and incorporate some nice interactive burger menus for mobile. 
+
+**Link(s) to work**:  [Coffee Company Website](https://elshaw82.github.io/css-grid-website/)
