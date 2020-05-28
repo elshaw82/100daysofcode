@@ -292,3 +292,12 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 **Thoughts**: I'd quite like to create some more complex grid layouts and incorporate some nice interactive burger menus for mobile. 
 
 **Link(s) to work**:  [Coffee Company Website](https://elshaw82.github.io/css-grid-website/)
+
+
+### Day 34: May 28, 2020
+
+**Today's Progress**: Created a radio with a blinking display screen using CSS. This was based on the one I have in my kitchen! Definitely prefer recreating real world examples and objects.  Next up on my JavaScript course: Loops and arrays. 
+
+**Thoughts**: Might revisit Wes Bos JavaScript 30 to see how much has sunk in!
+
+**Link(s) to work**:  [CSS Radio](https://codepen.io/elshaw82/full/ExVBvQg)
