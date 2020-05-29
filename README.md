@@ -301,3 +301,14 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 **Thoughts**: Might revisit Wes Bos JavaScript 30 to see how much has sunk in!
 
 **Link(s) to work**:  [CSS Radio](https://codepen.io/elshaw82/full/ExVBvQg)
+
+
+### Day 35: May 29, 2020
+
+**Today's Progress**: Created a lightswitch which toggles a light and dark background. Pretty simple JavaScript, but I'm happy I managed to do it myself! I couldn't get the switch styles to toggle but I think I might need if statements for that. Did some more Array Cardio from JavaScript30.
+
+**Thoughts**: I think tomorrow I'm going to look into before and after pseudo classes. 
+
+**Link(s) to work**:  [Lightswitch](https://codepen.io/elshaw82/full/QWjeEvM)
+
+
