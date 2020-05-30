@@ -312,3 +312,10 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 **Link(s) to work**:  [Lightswitch](https://codepen.io/elshaw82/full/QWjeEvM)
 
 
+### Day 36: May 30, 2020
+
+**Today's Progress**: Made a start on another Frontend Mentor challenge. This one was a landing page for a bank and allowed me to utilise css grid again. Going to watch some tutorials on pseudo classes (before and after)
+
+**Thoughts**: Back to JavaScript tomorrow. 
+
+**Link(s) to work**:  Incomplete currently, but the files are up. 
