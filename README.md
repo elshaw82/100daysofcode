@@ -31,13 +31,13 @@ The majority of my HTML/CSS knowledge comes from creating newsletters (what a br
 
 **Today's Progress**: I started a new landing page from Frontend Mentor. It's another 2 column example but I really wanted to use Flexbox again and try some multi-input validation JS. 
 
-**Thoughts** I haven't added any JS yet. I figured I would try the Wes Bos JavaScript30 challenge and then revisit. But the landing page looks good on desktop and mobile.
+**Thoughts** I haven't added any JS yet. I figured I would try the Wes Bos JavaScript30 challenge and then revisit. But the      landing page looks good on desktop and mobile.
 
 **Link(s) to work**: [Intro components with sign-up form](https://github.com/elshaw82/Intro-component-with-sign-up-form)
 
 ### Day 5: April 29, 2020
 
-**Today's Progress**: Today I started the Wes Bos JavaScript30 challenge, which I loved. He really breaks it all down to make it less daunting. I even managed to code ahead for a bit of it and didn't break anything! Obviously I redesigned it all because I love CSS. I used Grid for the first time!
+**Today's Progress**: Today I started the Wes Bos JavaScript30 challenge, which I loved. He really breaks it all down to make       it less daunting. I even managed to code ahead for a bit of it and didn't break anything! Obviously I redesigned it all because I love CSS. I used Grid for the first time!
 
 **Thoughts** It feels really good to stick with these projects and finish them. Too often I've been guilty of jumping from tutorial to tutorial and getting zero out of it apart from confusing myself! Excited for the next project. 
 
@@ -319,3 +319,32 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 **Thoughts**: Back to JavaScript tomorrow. 
 
 **Link(s) to work**:  Incomplete currently, but the files are up. 
+
+
+### Day 37: May 31, 2020
+
+**Today's Progress**: More JavaScript today, mostly Array work. Went over some previous lessons and did a few coding quizes to solidify the lessons!
+
+**Thoughts**: 
+
+**Link(s) to work**:   
+
+
+### Day 38: June 01, 2020
+
+**Today's Progress**: I didn't do any coding today in light of everything that is happening in the world. I was glued to twitter most of the day. Did some reflecting and listening instead. 
+
+**Thoughts**:
+
+**Link(s) to work**:  
+
+
+### Day 39: June 02, 2020
+
+**Today's Progress**: Looked into maps in JavaScript today and more Array work.
+
+**Thoughts**: Motivation is low today. I know it will pass so I'm trying not to beat myself up over not uploading.
+
+**Link(s) to work*
+
+
