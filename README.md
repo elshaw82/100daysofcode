@@ -264,7 +264,7 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 
 **Thoughts**: The first time I looked into keyframes I was a bit overwhelmed, but having spent a few hours playing around I feel way more confident in what I can create now. Really exciting!
 
-**Link(s) to work**:  [CodePen](https://codepen.io/elshaw82/full/LYpvYPG)
+**Link(s) to work**:  [Ice-Cream Cone](https://codepen.io/elshaw82/full/LYpvYPG)
 
 
 ### Day 31: May 25, 2020
