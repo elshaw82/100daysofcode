@@ -348,3 +348,12 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 **Link(s) to work*
 
 
+### Day 40: June 03, 2020
+
+**Today's Progress**: Created a soft UI calculator, followed by some more Array work - static methods, instance methods, callback methods and function generation. Whew! Starting the loop module tomorrow. 
+
+**Thoughts**: The JS for the calculator was a tutorial. Most of it I understood, but I have much more work to do before I can create my own work from scratch I think.
+
+**Link(s) to work*  [Soft UI Calculator](https://codepen.io/elshaw82/full/GRoRBXK)
+
+
