@@ -357,3 +357,11 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 **Link(s) to work*  [Soft UI Calculator](https://codepen.io/elshaw82/full/GRoRBXK)
 
 
+
+### Day 41: June 04, 2020
+
+**Today's Progress**: I revisited my dark-mode/light-mode switch and made the class toggle work. It was really simple and didn't involve if statements like I originally suggested. That feeling when you get something to work is so rewarding! More array work today. I'll start the loop module tomorrow instead I think. I enjoy the array practice and there is a lot to cover!
+
+**Thoughts**: So pleased about the lightswitch toggle. Ha! I wish I had designed a cooler lightswitch now. 
+
+**Link(s) to work*  [Lightswitch - updated](https://codepen.io/elshaw82/full/QWjeEvM)
