@@ -365,3 +365,12 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 **Thoughts**: So pleased about the lightswitch toggle. Ha! I wish I had designed a cooler lightswitch now. 
 
 **Link(s) to work*  [Lightswitch - updated](https://codepen.io/elshaw82/full/QWjeEvM)
+
+
+### Day 42: June 05, 2020
+
+**Today's Progress**: Started on the loop module today - forEach, Mapping, filter, find and higher order functions. It's a lot! But a few of the tutorials I've already worked on have covered these a little, so that definitely helped. I made a simple canvas drawing and a wack-a-mole game from JavaScript 30.
+
+**Thoughts**: I need to start building more without tutorials and get a few of the terms and methods straight in my head. 
+
+**Link(s) to work*  
