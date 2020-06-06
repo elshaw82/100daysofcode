@@ -374,3 +374,12 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 **Thoughts**: I need to start building more without tutorials and get a few of the terms and methods straight in my head. 
 
 **Link(s) to work*  
+
+
+### Day 43: June 06, 2020
+
+**Today's Progress**: Finally got round to looking at pseudo elements - before and after, followed by some JS quizzes!
+
+**Thoughts**: Back to loops tomorrow!
+
+**Link(s) to work*  
