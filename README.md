@@ -383,3 +383,13 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 **Thoughts**: Back to loops tomorrow!
 
 **Link(s) to work*  
+
+
+
+### Day 44: June 07, 2020
+
+**Today's Progress**: Did some loop exercises today - reduce, filter and find. I've used some of these already in tutorials so it all makes sense. Looking forward to doing some more practical work with these.
+
+**Thoughts**: I always feel bad when I dont have a project to link to, but I find the days of studying and exercises really useful too! 
+
+**Link(s) to work*  
