@@ -399,6 +399,15 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 
 **Today's Progress**: Getting loopy! Finished the loop module today, covering for, for in, for of and while loops. They make sense, but I feel like I would have a more solid understanding if I were using them in a real world scenario. Module 10 covers more difficult practice exercises, so I'm sure I'll get to see them in action. 
 
-**Thoughts**: Again, no work to link  to as most of today involved practice exercises and a lot of tutorials. The next module should produce some links :)
+**Thoughts**: Again, no work to link to as most of today involved practice exercises and a lot of tutorials. The next module should produce some links :)
 
 **Link(s) to work*  
+
+
+## Day 46: June 09, 2020
+
+**Today's Progress**: Today I created a connect 4 game (via Ania Kubów) It was a nice break from all the loop lessons and it also feels really rewarding when you start building along with  someone and the code makes sense and features a lot of the aspects you've been learning. 
+
+**Thoughts**: Trying to put together a list of smaller projects to create over the next 50 days to break up the JavaScript lessons.
+
+**Link(s) to work*  [Connect 4](https://github.com/elshaw82/Connect-4)
