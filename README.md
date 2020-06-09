@@ -408,6 +408,8 @@ Found a nice Spotify landing page on Dribbble to code to get my CSS fix.
 
 **Today's Progress**: Today I created a connect 4 game (via Ania Kubów) It was a nice break from all the loop lessons and it also feels really rewarding when you start building along with  someone and the code makes sense and features a lot of the aspects you've been learning. 
 
+Edit - I had some free time this evening, so I recreated the Spotify mobile player!
+
 **Thoughts**: Trying to put together a list of smaller projects to create over the next 50 days to break up the JavaScript lessons.
 
-**Link(s) to work*  [Connect 4](https://github.com/elshaw82/Connect-4)
+**Link(s) to work*  [Connect 4](https://github.com/elshaw82/Connect-4) [Soft UI Spotify](https://codepen.io/elshaw82/full/ZEQQQjy)
