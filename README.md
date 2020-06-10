@@ -413,3 +413,14 @@ Edit - I had some free time this evening, so I recreated the Spotify mobile play
 **Thoughts**: Trying to put together a list of smaller projects to create over the next 50 days to break up the JavaScript lessons.
 
 **Link(s) to work*  [Connect 4](https://github.com/elshaw82/Connect-4) [Soft UI Spotify](https://codepen.io/elshaw82/full/ZEQQQjy)
+
+
+
+## Day 47: June 10, 2020
+
+**Today's Progress**: Did a few JavaScript exercises on FreeCodeCamp today. The next module of my course is an hour long Face Detection/Censorship exercise, so I need a bit of time to work on it!
+
+
+**Thoughts**: I'm having good days and bad days in terms of motivation, but I guess that's normal. The good days are really good and I'm usually really happy with what I produce and I always learn something new. 
+
+**Link(s) to work*  
