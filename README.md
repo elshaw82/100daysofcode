@@ -424,3 +424,23 @@ Edit - I had some free time this evening, so I recreated the Spotify mobile play
 **Thoughts**: I'm having good days and bad days in terms of motivation, but I guess that's normal. The good days are really good and I'm usually really happy with what I produce and I always learn something new. 
 
 **Link(s) to work*  
+
+
+## Day 48: June 11, 2020
+
+**Today's Progress**: More JavaScript today. Jumped back on JavaScript 30 and sorted an array into a list without articles using join, map, for each and some reg ex. 
+
+
+**Thoughts**: A really quick exercise but I find the elements used stick a lot more in the smaller exercises.
+
+**Link(s) to work*  
+
+
+## Day 49: June 12, 2020
+
+**Today's Progress**: Another JavaScript 30 challenge today in the form of an on scroll sticky nav. Always wondered how this was achieved! 
+
+
+**Thoughts**: Starting to think about putting together a portfolio website, without getting too far ahead of myself! Thinking about a nice grid layout, a stick nav, and some nice animation.
+
+**Link(s) to work*  
