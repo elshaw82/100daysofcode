@@ -444,3 +444,13 @@ Edit - I had some free time this evening, so I recreated the Spotify mobile play
 **Thoughts**: Starting to think about putting together a portfolio website, without getting too far ahead of myself! Thinking about a nice grid layout, a stick nav, and some nice animation.
 
 **Link(s) to work*  
+
+
+## Day 50: June 13, 2020
+
+**Today's Progress**: Full on JavaScript day today. Revisited some earlier modules from the course and played around with some code to make a push button confetti drop. Not quite there yet, but it's the first day in a while that I've been able to just mess around with code and make mistakes!  
+
+
+**Thoughts**: Had a look at some codepens for inspiration - it really does motivate you to keep going!
+
+**Link(s) to work*  
