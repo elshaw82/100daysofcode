@@ -454,3 +454,12 @@ Edit - I had some free time this evening, so I recreated the Spotify mobile play
 **Thoughts**: Had a look at some codepens for inspiration - it really does motivate you to keep going!
 
 **Link(s) to work*  
+
+## Day 51: June 14, 2020
+
+**Today's Progress**: To celebrate reaching the halfway point of my journey, I've created a little "push for confetti" animation. Took me a bit of time to figure out that I needed to loop over each div to add the new class. Google is my friend!
+
+
+**Thoughts**: I feel like celebrating having thought of an idea using JavaScript and completed it!
+
+**Link(s) to work*  
