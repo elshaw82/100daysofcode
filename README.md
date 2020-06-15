@@ -460,6 +460,16 @@ Edit - I had some free time this evening, so I recreated the Spotify mobile play
 **Today's Progress**: To celebrate reaching the halfway point of my journey, I've created a little "push for confetti" animation. Took me a bit of time to figure out that I needed to loop over each div to add the new class. Google is my friend!
 
 
-**Thoughts**: I feel like celebrating having thought of an idea using JavaScript and completed it!
+**Thoughts**: I feel like celebrating having thought of an idea using JavaScript and seeing it throught to completion!
+
+**Link(s) to work*  
+
+
+## Day 52: June 15, 2020
+
+**Today's Progress**: Created a custom HTML 5 video player. If I had done this particular project a few days ago it would have saved me a bit of heartache when trying to create the confetti project! I'm getting so much faster at coding along and I anticipating what to do next. 
+
+
+**Thoughts**: Listened to a Code Newbie podcast today which talked about the importance of learning Vanilla JavaScript before looking into any frameworks. Really happy I chose to learn the fundamentals first!
 
 **Link(s) to work*  
