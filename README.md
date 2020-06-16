@@ -473,3 +473,13 @@ Edit - I had some free time this evening, so I recreated the Spotify mobile play
 **Thoughts**: Listened to a Code Newbie podcast today which talked about the importance of learning Vanilla JavaScript before looking into any frameworks. Really happy I chose to learn the fundamentals first!
 
 **Link(s) to work*  
+
+
+## Day 53: June 16, 2020
+
+**Today's Progress**: Had a bit of a hectic day today so I didn't start coding until a bit later than usual. Made a good start on a CSS & HTML lava lamp. Planning to add a bit of JavaScript to toggle an on/off switch. 
+
+
+**Thoughts**: Really enjoyed playing around with keyframes and using percentages to change the border and overall shape of the "lava". 
+
+**Link(s) to work*  
