@@ -483,3 +483,12 @@ Edit - I had some free time this evening, so I recreated the Spotify mobile play
 **Thoughts**: Really enjoyed playing around with keyframes and using percentages to change the border and overall shape of the "lava". 
 
 **Link(s) to work*  
+
+## Day 54: June 17, 2020
+
+**Today's Progress**: Finished my lava lamp today! This was so fun and infuriating! I think the code could definitely be simplified but it was good practice. 
+
+
+**Thoughts**: I'd like to fix the code at some point so that you can restart the animation after you've switched it off. 
+
+**Link(s) to work*  [Lava Lamp](https://codepen.io/elshaw82/full/MWKbvpZ)
