@@ -492,3 +492,13 @@ Edit - I had some free time this evening, so I recreated the Spotify mobile play
 **Thoughts**: I'd like to fix the code at some point so that you can restart the animation after you've switched it off. 
 
 **Link(s) to work*  [Lava Lamp](https://codepen.io/elshaw82/full/MWKbvpZ)
+
+
+## Day 55: June 18, 2020
+
+**Today's Progress**: Today I created a crystal ball that animates on click and displays an answer. Really pleased with it! Definitely feeling more confident with JavaScript these days. 
+
+
+**Thoughts**: 
+
+**Link(s) to work*  [Lava Lamp](https://codepen.io/elshaw82/full/jOWyrem)
