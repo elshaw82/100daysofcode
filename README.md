@@ -502,3 +502,12 @@ Edit - I had some free time this evening, so I recreated the Spotify mobile play
 **Thoughts**: 
 
 **Link(s) to work*  [Lava Lamp](https://codepen.io/elshaw82/full/jOWyrem)
+
+
+## Day 56: June 19, 2020
+
+**Today's Progress**: Followed an Ania Kubow memory game tutorial today and also did a bit of beginners SVG. 
+
+**Thoughts**: I never thought I would say this, but I'm starting to enjoy JavaScript more than CSS!
+
+**Link(s) to work*  [Clueles Memory Game](https://codepen.io/elshaw82/full/rNxjQYG)
