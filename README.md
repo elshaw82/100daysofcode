@@ -510,4 +510,13 @@ Edit - I had some free time this evening, so I recreated the Spotify mobile play
 
 **Thoughts**: I never thought I would say this, but I'm starting to enjoy JavaScript more than CSS!
 
-**Link(s) to work*  [Clueles Memory Game](https://codepen.io/elshaw82/full/rNxjQYG)
+**Link(s) to work*  [Clueles Memory Game](https://codepen.io/elshaw82/full/bGEqpXy)
+
+
+## Day 57: June 20, 2020
+
+**Today's Progress**: Did some more reading up on SVG creation. I've seen some really cool animations using SVGs, so I figured it would be a great bonus skill to have. 
+
+**Thoughts**: Might create another grid website tomorrow. 
+
+**Link(s) to work*  Nope! Just practice!
