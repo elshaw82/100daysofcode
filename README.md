@@ -520,3 +520,12 @@ Edit - I had some free time this evening, so I recreated the Spotify mobile play
 **Thoughts**: Might create another grid website tomorrow. 
 
 **Link(s) to work*  Nope! Just practice!
+
+
+## Day 58: June 21, 2020
+
+**Today's Progress**: My plan today was to do another grid layout, but I was in the mood to do more JavaScript work. I ended up working with the NASA api to create an Astronomy Picture of the Day onclick page. The code is all there, I just need to style it up!
+
+**Thoughts**: This was my first look at API's and it's not at all as daunting as it sounds. Really interested in what other things I could build for my portfolio.
+
+**Link(s) to work*  Nope! Just practice!
