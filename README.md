@@ -538,3 +538,12 @@ Edit - I had some free time this evening, so I recreated the Spotify mobile play
 **Thoughts**: I think if I could have peeked at what I would be creating by the half-way point way back at the start of my 100 days of code journey, I would be shocked! I'm really enjoying JavaScript now that I've broken through those first few lessons and frustrations.
 
 **Link(s) to work*  (NASA API)[https://codepen.io/elshaw82/full/qBbrgQR]
+
+
+## Day 60: June 23, 2020
+
+**Today's Progress**: Playing around with mobile navigation today (hamburger menu). I've seen a lot of cool transformations and animations recently so it's on my list of things to try out.
+
+**Thoughts**: I ran out of time today. Managed to make a start on things but not finished. 
+
+**Link(s) to work*  
