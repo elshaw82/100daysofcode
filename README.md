@@ -547,3 +547,12 @@ Edit - I had some free time this evening, so I recreated the Spotify mobile play
 **Thoughts**: I ran out of time today. Managed to make a start on things but not finished. 
 
 **Link(s) to work*  
+
+
+## Day 61: June 24, 2020
+
+**Today's Progress**: What started out as me experimenting with mobile navigation, has turned into me starting my own portfolio website! It feels good to take my time with each part and get it right. Before I would really focus on the aesthetics and not pay enough attention to what was going on under the hood, but I think I'm definitely becoming more invested in the little details, which is more to do with growing confidence in the technology I'm using!
+
+**Thoughts**:  Feeling really proud of how far I've come in the last 61 days. Excited to look back at 100 and see everything I've made...maybe do round 2!
+
+**Link(s) to work* (Portfolio / responsive nav)[https://github.com/elshaw82/responsive-nav]
