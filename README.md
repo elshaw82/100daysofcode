@@ -556,3 +556,22 @@ Edit - I had some free time this evening, so I recreated the Spotify mobile play
 **Thoughts**:  Feeling really proud of how far I've come in the last 61 days. Excited to look back at 100 and see everything I've made...maybe do round 2!
 
 **Link(s) to work* (Portfolio / responsive nav)[https://github.com/elshaw82/responsive-nav]
+
+
+## Day 62: June 24, 2020
+
+**Today's Progress**: 
+
+**Thoughts**:  
+
+**Link(s) to work* 
+
+
+
+## Day 63: June 24, 2020
+
+**Today's Progress**: A little bit of CSS Keyframes and JavaScript today. Keeping it simple!
+
+**Thoughts**:  
+
+**Link(s) to work* (Button Fun)[https://codepen.io/elshaw82/full/wvMqWLO]
