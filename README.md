@@ -558,7 +558,7 @@ Edit - I had some free time this evening, so I recreated the Spotify mobile play
 **Link(s) to work* (Portfolio / responsive nav)[https://github.com/elshaw82/responsive-nav]
 
 
-## Day 62: June 24, 2020
+## Day 62: June 25, 2020
 
 **Today's Progress**: 
 
@@ -567,11 +567,19 @@ Edit - I had some free time this evening, so I recreated the Spotify mobile play
 **Link(s) to work* 
 
 
-
-## Day 63: June 24, 2020
+## Day 63: June 26 2020
 
 **Today's Progress**: A little bit of CSS Keyframes and JavaScript today. Keeping it simple!
 
 **Thoughts**:  
 
+
 **Link(s) to work* (Button Fun)[https://codepen.io/elshaw82/full/wvMqWLO]
+
+## Day 64: June 27 2020
+
+**Today's Progress**: Today I created an animated toaster using a combination of CSS and JavaScript. First time using interval timings to control the animation. It turned out great! 
+
+**Thoughts**:  Keep thinking about a quote from Wes Bos: "Being able to make your ideas is a super power." It really is! 
+
+**Link(s) to work* (Animated Toaster)[https://codepen.io/elshaw82/full/XWXaBpr]
