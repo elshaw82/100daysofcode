@@ -583,3 +583,23 @@ Edit - I had some free time this evening, so I recreated the Spotify mobile play
 **Thoughts**:  Keep thinking about a quote from Wes Bos: "Being able to make your ideas is a super power." It really is! 
 
 **Link(s) to work* (Animated Toaster)[https://codepen.io/elshaw82/full/XWXaBpr]
+
+
+## Day 65: June 28 2020
+
+**Today's Progress**: I created a countdown to Primavera Sound 2021. It was a little more complicated than I expected but I got there in the end and it was the perfect project to use the modulus operator.
+
+**Thoughts**:  Fun to make something that I can actually use. 
+
+**Link(s) to work* (Primavera Sound 2021 Countdown)[https://codepen.io/elshaw82/full/YzwrqBX]
+
+
+## Day 66: June 29 2020
+
+**Today's Progress**: I was all geared up to make a cocktail finder using another API, but once I had set up the page I started getting frustrated with the design and then confused myself trying to set up the API. I know in a couple of days when I come back to it I'll see the problem immediately. 
+
+Instead I created a little toggle slider button. Trying not to be disheartened about hitting a bit of a JavaScript wall today...it's been a while. 
+
+**Thoughts**:  Back to it tomorrow. 
+
+**Link(s) to work* (Toggle Slider)[https://codepen.io/elshaw82/full/XWXexWe]
