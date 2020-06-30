@@ -603,3 +603,14 @@ Instead I created a little toggle slider button. Trying not to be disheartened a
 **Thoughts**:  Back to it tomorrow. 
 
 **Link(s) to work* (Toggle Slider)[https://codepen.io/elshaw82/full/XWXexWe]
+
+
+## Day 67: June 30 2020
+
+**Today's Progress**: Finished what couldn't yesterday! Funnily enough, the solution to the problem I was having yesterday came to me as I was drifting off to sleep last night! Ha! Really pleased with how it turned out. I made it responsive too. 
+
+**Thoughts**:  Need to do more CSS Grid work. It still intimidates me! 
+
+**Link(s) to work* (Random Cocktail Generator)[https://codepen.io/elshaw82/full/ZEQaWLy]
+
+
