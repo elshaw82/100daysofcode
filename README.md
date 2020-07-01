@@ -614,3 +614,12 @@ Instead I created a little toggle slider button. Trying not to be disheartened a
 **Link(s) to work* (Random Cocktail Generator)[https://codepen.io/elshaw82/full/ZEQaWLy]
 
 
+
+## Day 68: July 01 2020
+
+**Today's Progress**: CSS Grid all day today courtesy of Wes Bos. It was definitely needed. Feeling a bit more confident, but I still need to refer to past work and CSS Tricks. I've added a small portfolio grid section to what will be my portfolio. It's not finalised but it's a good basis!
+
+**Thoughts**:  Back to JavaScript tomorrow.
+
+**Link(s) to work* I did a lot of image gallery work, but it was a bit of pain to upload so many images so no link today. 
+
