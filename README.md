@@ -623,3 +623,11 @@ Instead I created a little toggle slider button. Trying not to be disheartened a
 
 **Link(s) to work* I did a lot of image gallery work, but it was a bit of pain to upload so many images so no link today. 
 
+
+## Day 69: July 02 2020
+
+**Today's Progress**: I created a simple HTML5 canvas project today. Really interesting working on this having done a little bit with canvas at the beginning when my JavaScript knowledge was minimal! 
+
+**Thoughts**:  Definitely hope to do more tutorials on this as there is so much potential!
+
+**Link(s) to work* **Link(s) to work* (Interactive HTML5 Canvas)[https://codepen.io/elshaw82/full/jOWYLWe]
