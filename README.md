@@ -631,3 +631,14 @@ Instead I created a little toggle slider button. Trying not to be disheartened a
 **Thoughts**:  Definitely hope to do more tutorials on this as there is so much potential!
 
 **Link(s) to work* **Link(s) to work* (Interactive HTML5 Canvas)[https://codepen.io/elshaw82/full/jOWYLWe]
+
+
+## Day 70: July 03 2020
+
+**Today's Progress**: A simple responsive contact form today based on a nice design from Dribbble. 
+
+**Thoughts**:  I had big ideas for today, but I just ran out of time and then this actually took a little bit longer than I thought it would. 
+
+**Link(s) to work* **Link(s) to work* (Responsive Contact Form)[https://codepen.io/elshaw82/full/gOPoybW]
+
+
