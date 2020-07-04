@@ -642,3 +642,14 @@ Instead I created a little toggle slider button. Trying not to be disheartened a
 **Link(s) to work* **Link(s) to work* (Responsive Contact Form)[https://codepen.io/elshaw82/full/gOPoybW]
 
 
+## Day 71: July 04 2020
+
+**Today's Progress**: A bit of everthing today: grid, flex and JavaScript to create some Pantone style cards. The background changes to the corresponding colour when you click the card.
+
+**Thoughts**:  I think the JS could be simplified but I totally overthought it!
+
+**Link(s) to work* **Link(s) to work* (Pantone Colour Cards)[https://codepen.io/elshaw82/full/OJMQNNr]
+
+
+
+
