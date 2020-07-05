@@ -651,5 +651,15 @@ Instead I created a little toggle slider button. Trying not to be disheartened a
 **Link(s) to work* **Link(s) to work* (Pantone Colour Cards)[https://codepen.io/elshaw82/full/OJMQNNr]
 
 
+## Day 72: July 05 2020
+
+**Today's Progress**: Did a lot of Grid work today. Mostly blog layouts. Then a bit of 'this' and 'new' in JavaScript. 
+
+**Thoughts**:  Determined to get more confident with grid!
+
+**Link(s) to work* **Link(s) to work* 
+
+
+
 
 
