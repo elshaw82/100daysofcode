@@ -660,6 +660,22 @@ Instead I created a little toggle slider button. Trying not to be disheartened a
 **Link(s) to work* **Link(s) to work* 
 
 
+## Day 73: July 06 2020
+
+**Today's Progress**: Had a bit of a soul destroying day today. Started a mini course on the command line and....yikes. Much frustration. Decided to do a JS project and couldn't achieve what I wanted. Double frustration.  
+
+**Thoughts**:  Trying not to be too disheartened by my lack of progress today. 
+
+**Link(s) to work* **Link(s) to work* 
+
+
+## Day 74: July 07 2020
+
+**Today's Progress**: Created an events page based on a Dribbble design today using grid. It looked ok but the code was a mess to be honest. I need to start sketching things out beforehand to make it more logical and modular. I'm also trying to ensure I use as much accessible code as possible and not have div soup in my work! 
+
+**Thoughts**:  Things to work on: More JavaScript, Grid, Best Practices for structuring my code, Command Line (urgh). I was feeling really rubbish about it all today, but a stranger actually reached out with some words of encouragement which was so nice and just what I needed. Trying not to be too hard on myself. 
+
+**Link(s) to work* **Link(s) to work* Code was a mess and not responsive, so no links.
 
 
 
