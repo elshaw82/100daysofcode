@@ -612,3 +612,11 @@ Instead I created a little toggle slider button. Trying not to be disheartened a
 **Thoughts**: This has been a nice motivator!
 
 \*_Link(s) to work_ [Pastel Equaliser](https://codepen.io/elshaw82/full/WNrJjOY)
+
+## Day 76: July 09 2020
+
+**Today's Progress**: A frustrating day today! I had very little time to create, so I'm just going to use the last 30mins of my day to go over some earlier lessons from my JavaScript course.
+
+**Thoughts**: I may not have a link to post today, but I am still using what time I have to learn.
+
+\*_Link(s) to work_
