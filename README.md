@@ -620,3 +620,11 @@ Instead I created a little toggle slider button. Trying not to be disheartened a
 **Thoughts**: I may not have a link to post today, but I am still using what time I have to learn.
 
 \*_Link(s) to work_
+
+## Day 77: July 10 2020
+
+**Today's Progress**: A simple responsive nav today. I had to scale it way back as I had orginally started creating a product landing page but I'm not a designer, so I found it hard with nothing to work from.
+
+**Thoughts**: Struggling with focussing on a project to create each day this week. Need to get back to JavaScript tomorrow.
+
+\*_Link(s) to work_ [Responsive Nav](https://codepen.io/elshaw82/full/YzwvEwY)
