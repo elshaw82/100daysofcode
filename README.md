@@ -628,3 +628,19 @@ Instead I created a little toggle slider button. Trying not to be disheartened a
 **Thoughts**: Struggling with focussing on a project to create each day this week. Need to get back to JavaScript tomorrow.
 
 \*_Link(s) to work_ [Responsive Nav](https://codepen.io/elshaw82/full/YzwvEwY)
+
+## Day 78: July 11 2020
+
+**Today's Progress**:
+
+**Thoughts**:
+
+\*_Link(s) to work_
+
+## Day 79: July 12 2020
+
+**Today's Progress**: Created a CSS paint set today then did a little more JavaScript lessons (going back and revisiting earlier modules on looping)
+
+**Thoughts**:
+
+\*_Link(s) to work_ No link - not 100% happy with my creation!
