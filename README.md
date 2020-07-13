@@ -644,3 +644,11 @@ Instead I created a little toggle slider button. Trying not to be disheartened a
 **Thoughts**:
 
 \*_Link(s) to work_ No link - not 100% happy with my creation!
+
+## Day 80: July 13 2020
+
+**Today's Progress**: Went over some looping modules again and then a started a few lessons on prototypes.
+
+**Thoughts**: Might do a code along of a game tomorrow.
+
+\*_Link(s) to work_
