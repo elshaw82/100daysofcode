@@ -652,3 +652,11 @@ Instead I created a little toggle slider button. Trying not to be disheartened a
 **Thoughts**: Might do a code along of a game tomorrow.
 
 \*_Link(s) to work_
+
+## Day 81: July 14 2020
+
+**Today's Progress**: Created a mobile article preview component from Frontend Mentor with a little JavaScript show/hide function.
+
+**Thoughts**: I feel a bit uninspired this week! I want to create games, canvas animations, keept learning JavaScript, practice grid...start learning React! It's hard to fit it all in or know where to start when you're feeling a bit bleurgh. Tomorrow is a new day.
+
+\*_Link(s) to work_
