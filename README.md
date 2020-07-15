@@ -657,6 +657,14 @@ Instead I created a little toggle slider button. Trying not to be disheartened a
 
 **Today's Progress**: Created a mobile article preview component from Frontend Mentor with a little JavaScript show/hide function.
 
-**Thoughts**: I feel a bit uninspired this week! I want to create games, canvas animations, keept learning JavaScript, practice grid...start learning React! It's hard to fit it all in or know where to start when you're feeling a bit bleurgh. Tomorrow is a new day.
+**Thoughts**: I feel a bit uninspired this week! I want to create games, canvas animations, keep learning JavaScript, practice grid...start learning React! It's hard to fit it all in or know where to start when you're feeling a bit bleurgh. Tomorrow is a new day.
+
+\*_Link(s) to work_
+
+## Day 82: July 15 2020
+
+**Today's Progress**: Watched a tutorial on how to animate SVGs and it looks way less complicated than I thought it would be. Now I just need to decide what software to download to create my own...
+
+**Thoughts**: Back to JS tomorrow.
 
 \*_Link(s) to work_
