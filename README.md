@@ -668,3 +668,11 @@ Instead I created a little toggle slider button. Trying not to be disheartened a
 **Thoughts**: Back to JS tomorrow.
 
 \*_Link(s) to work_
+
+## Day 83: July 16 2020
+
+**Today's Progress**: Made a start on a JS weather app today. Typically though, the api I was using (as recommended by the tutorial) no longer works, so I had to work out a lot of it myself, which was actually pretty nice/reassuring that I do know what I'm doing!
+
+**Thoughts**: Might not get a chance to code tomorrow, but Ill continue this on Saturday.
+
+\*_Link(s) to work_
