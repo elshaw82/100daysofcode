@@ -676,3 +676,27 @@ Instead I created a little toggle slider button. Trying not to be disheartened a
 **Thoughts**: Might not get a chance to code tomorrow, but Ill continue this on Saturday.
 
 \*_Link(s) to work_
+
+## Day 84: July 17 2020
+
+**Today's Progress**:
+
+**Thoughts**:
+
+\*_Link(s) to work_
+
+## Day 85: July 18 2020
+
+**Today's Progress**: A little work on the weather app today. Need to style up the layout and fix the icons.
+
+**Thoughts**: The built in icons are a bit ugly. Might look into Skycons instead.
+
+\*_Link(s) to work_
+
+## Day 86: July 19 2020
+
+**Today's Progress**: Played around with Figma and made some svg graphics. I need to get my tablet out and make them look a bit sharper. Then I can work on animating them. I have a few ideas, just need to sort the graphics out first.
+
+**Thoughts**: I've been so busy over the last days with lockdown easing, sorting out some personal stuff. Hoping to have more time this week!
+
+\*_Link(s) to work_
