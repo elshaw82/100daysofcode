@@ -700,3 +700,19 @@ Instead I created a little toggle slider button. Trying not to be disheartened a
 **Thoughts**: I've been so busy over the last days with lockdown easing, sorting out some personal stuff. Hoping to have more time this week!
 
 \*_Link(s) to work_
+
+## Day 87: July 20 2020
+
+**Today's Progress**: Watched a tonne of tutorials on how to animate SVGs. I need to change my set up to fit another monitor as it's too fiddly doing it on a single screen!
+
+**Thoughts**: Got some ideas on what to work on tomorrow.
+
+\*_Link(s) to work_
+
+# Day 88: July 21 2020
+
+**Today's Progress**: An SVG animation today. Keeping it simple in order to learn the basics!
+
+**Thoughts**: Back to pure JS practice tomorrow.
+
+\*_Link(s) to work_ [Magic SVG](https://codepen.io/elshaw82/full/WNrLBKQ)
