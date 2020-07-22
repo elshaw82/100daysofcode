@@ -719,8 +719,16 @@ Instead I created a little toggle slider button. Trying not to be disheartened a
 
 # Day 89: July 22 2020
 
-**Today's Progress**: Another SVG animation today using anime.js! Morphing a sun into a moon with added dark mode toggle!
+**Today's Progress**: Another SVG animation today using anime.js! Morphing a sun into a moon with added dark mode toggle! I also created a personalised ReadMe for my Github profile.
 
 **Thoughts**: Been getting to grips with Figma over the last few days and this was also my first time using a JS library.
 
 \*_Link(s) to work_ [SVG Morph](https://github.com/elshaw82/SVG-morph-animation)
+
+# Day 90: July 23 2020
+
+**Today's Progress**: Revisited JavaScript30 and coded along with the Stripe style dynamic dropdown nav tutorial.
+
+**Thoughts**: Really enjoyed this one - may style it up to make my own.
+
+\*_Link(s) to work_ [Stripe Style Nav](https://github.com/elshaw82/JavaScript30-1/commit/c4a9dcb9ea30f656a6297c9fc3bb813570fd90e0)
