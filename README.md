@@ -716,3 +716,11 @@ Instead I created a little toggle slider button. Trying not to be disheartened a
 **Thoughts**: Back to pure JS practice tomorrow.
 
 \*_Link(s) to work_ [Magic SVG](https://codepen.io/elshaw82/full/WNrLBKQ)
+
+# Day 89: July 22 2020
+
+**Today's Progress**: Another SVG animation today using anime.js! Morphing a sun into a moon with added dark mode toggle!
+
+**Thoughts**: Been getting to grips with Figma over the last few days and this was also my first time using a JS library.
+
+\*_Link(s) to work_ [SVG Morph](https://github.com/elshaw82/SVG-morph-animation)
