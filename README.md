@@ -732,3 +732,43 @@ Instead I created a little toggle slider button. Trying not to be disheartened a
 **Thoughts**: Really enjoyed this one - may style it up to make my own.
 
 \*_Link(s) to work_ [Stripe Style Nav](https://github.com/elshaw82/JavaScript30-1/commit/c4a9dcb9ea30f656a6297c9fc3bb813570fd90e0)
+
+# Day 91: July 24 2020
+
+**Today's Progress**: I've been trying to better my understanding of best practices for accessibility. I purchased Accessibility for Everyone by Laura Kalbag before lockdown but it's in my desk drawer at work annoyingly! Found https://www.a11yproject.com/ to be a really good source of information and resources.
+
+**Thoughts**: I want to be able to create inclusive projects. Not as an afterthought! Deliberate and thoughtful work.
+
+\*_Link(s) to work_
+
+# Day 92: July 25 2020
+
+**Today's Progress**: I did a few JS exercises on FreeCodeCamp today.
+
+**Thoughts**: Interested in learning more about algorithms and data structure.
+
+\*_Link(s) to work_
+
+# Day 93: July 25 2020
+
+**Today's Progress**: Spent some time browsing CodePen, looking for some inspo. Feeling a bit flat in terms of what I should create! I also did a few CSS grid quizzes.
+
+**Thoughts**: I keep finding more and more things to learn which is exciting but also frustrating. I need to be a little more patient with myself.
+
+\*_Link(s) to work_
+
+# Day 94: July 26 2020
+
+**Today's Progress**: Played around with Figma some more. It's a great tool considering it's free!
+
+**Thoughts**: My plan for next week is to get back to JavaScript. I only have a few modules left to complete.
+
+\*_Link(s) to work_
+
+# Day 95: July 27 2020
+
+**Today's Progress**: Simple CSS loading animation today.
+
+**Thoughts**:
+
+\*_Link(s) to work_ [CSS loading animation](https://codepen.io/elshaw82/full/ZEQNbxL)
