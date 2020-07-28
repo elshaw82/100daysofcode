@@ -772,3 +772,11 @@ Instead I created a little toggle slider button. Trying not to be disheartened a
 **Thoughts**:
 
 \*_Link(s) to work_ [CSS loading animation](https://codepen.io/elshaw82/full/ZEQNbxL)
+
+# Day 96: July 28 2020
+
+**Today's Progress**: Have an idea for some SVG animation using tornis.js - inspired by work I saw on Codepen by Andy Barefoot.
+
+**Thoughts**: There is a lot going on at home currently which is leaving me with very little time to work on these projects. It's incredibly frustrating but hopefully I'll get a bit more time in the coming weeks - #100DaysOfCode Round 2?
+
+\*_Link(s) to work_
