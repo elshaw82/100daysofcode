@@ -780,3 +780,11 @@ Instead I created a little toggle slider button. Trying not to be disheartened a
 **Thoughts**: There is a lot going on at home currently which is leaving me with very little time to work on these projects. It's incredibly frustrating but hopefully I'll get a bit more time in the coming weeks - #100DaysOfCode Round 2?
 
 \*_Link(s) to work_
+
+# Day 97: July 29 2020
+
+**Today's Progress**: Followed along with a Layout Clip tutorial using anime.js which was fun. Really quick to do. Incredibly powerful library!
+
+**Thoughts**: keen on developing the idea I had yesterday using Tornis too!
+
+\*_Link(s) to work_ [anime.js](https://codepen.io/elshaw82/pen/PoZrPJx)
