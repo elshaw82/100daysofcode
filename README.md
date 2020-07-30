@@ -788,3 +788,19 @@ Instead I created a little toggle slider button. Trying not to be disheartened a
 **Thoughts**: keen on developing the idea I had yesterday using Tornis too!
 
 \*_Link(s) to work_ [anime.js](https://codepen.io/elshaw82/pen/PoZrPJx)
+
+# Day 98: July 30 2020
+
+**Today's Progress**: Tried to create an animation on scroll using Tornis but it's not quite right - I adapted someone else's code so I didn't really know what I was doing!
+
+**Thoughts**: I wonder if I could achieve it without the script.
+
+\*_Link(s) to work_ [Rainbow Scroll](https://codepen.io/elshaw82/pen/dyGBNVZ)
+
+# Day 99: July 31 2020
+
+**Today's Progress**: Created a store layout using CSS grid. It started off as just a responsive card layout but I went a bit nuts and kept going!
+
+**Thoughts**: I can't believe I'm nearly at the end! I still have a few modules of my course left and I'd like to revisit some earlier ones so that will keep me going.
+
+\*_Link(s) to work_ [Record Store](https://github.com/elshaw82/responsive-cards)
