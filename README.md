@@ -804,3 +804,13 @@ Instead I created a little toggle slider button. Trying not to be disheartened a
 **Thoughts**: I can't believe I'm nearly at the end! I still have a few modules of my course left and I'd like to revisit some earlier ones so that will keep me going.
 
 \*_Link(s) to work_ [Record Store](https://github.com/elshaw82/responsive-cards)
+
+# Day 100: August 01 2020
+
+**Today's Progress**: Day 100! I did it! What a journey it has been. I've learnt so much, but also learnt how much I still need to learn!
+
+I was in turmoil today trying to decide what to make. In the end I went with a simple toggle for confetti switch.
+
+**Thoughts**: Excited to continue this journey and learn React and SASS.
+
+\*_Link(s) to work_ [Day 100](https://codepen.io/elshaw82/full/pogMKXO)
